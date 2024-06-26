@@ -1,1 +1,10 @@
-# Alura-Projeto
+Boas vindas ao meu perfil 💙💙
+Davi Andrade
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+daviandradredaisa@gmail.com 
+
+@daviandrade
